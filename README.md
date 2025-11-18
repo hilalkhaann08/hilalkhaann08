@@ -1,4 +1,5 @@
-![MasterHead](Banner.png)
+<img src="Banner.png" alt="Banner" width="1000" height="700"/>
+
 
 <h1 align="center">Hi 👋, I'm Hilal Ahmad</h1>
 <h3 align="center">I’m a Junior Frontend Developer from Pakistan</h3>
@@ -15,7 +16,7 @@
 
 - 📫 How to reach me **hilalkhaann08@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/w/c/fcd9a1cf625386e4/IQCWoKWbPlB0Q7yKqIcwlDtgAXslwsBP29fh2VN9_13-co4?e=1OWUq1](https://1drv.ms/w/c/fcd9a1cf625386e4/IQCWoKWbPlB0Q7yKqIcwlDtgAXslwsBP29fh2VN9_13-co4?e=1OWUq1)
+- 📄 Know about my experiences [[📄 View My Resume](https://1drv.ms/w/c/fcd9a1cf625386e4/IQCWoKWbPlB0Q7yKqIcwlDtgAXslwsBP29fh2VN9_13-co4?e=1OWUq1)]
 
 - ⚡ Fun fact **I think I am lazy 😅**
 
